@@ -533,8 +533,4 @@ Ranked Results
 ```
 
 The search engine normalizes the query embedding before passing it to FAISS, then returns ranked results containing metadata and similarity scores.
-Team Members
-S.No	University ID	Name
-1	2420030636	V Praneeth
-2	2420030351	Y Karthikeya
-3 2420090051  Ch Sanjeev
+
